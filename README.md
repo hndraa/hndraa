@@ -12,14 +12,8 @@ Hi, I'm Hendra Ahmad Yani<br><br>I am an Informatics Engineering graduate with a
 ![](https://streak-stats.demolab.com/?user=hndraa&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hndraa&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hndraa&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=hndraa&icon=10&color=13)](https://visitcount.itsvg.in)
