@@ -198,13 +198,13 @@ You can explore my repositories to see examples of how I approach <strong>data a
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hendraahmadyani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.shion.dev/api?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
     height="170"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hendraahmadyani&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=hndraa&theme=transparent&hide_border=true"
     height="170"
     alt="GitHub Streak"
   />
@@ -212,17 +212,8 @@ You can explore my repositories to see examples of how I approach <strong>data a
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendraahmadyani&layout=compact&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     height="170"
     alt="Top Languages"
-  />
-</p>
-
-<h2 align="center">GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=hendraahmadyani&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
   />
 </p>
