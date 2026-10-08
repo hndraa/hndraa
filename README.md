@@ -195,7 +195,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
       <sub>Scikit-learn</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="42"><br>
+      <img src="https://skillicons.dev/icons?i=scipy" width="42"><br>
       <sub>SciPy</sub>
     </td>
   </tr>
