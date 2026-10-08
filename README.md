@@ -127,7 +127,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
     </td>
     <td align="center">
       <strong>Figma</strong><br>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="50">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?" width="50">
     </td>
   </tr>
 
