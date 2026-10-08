@@ -194,7 +194,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </tr>
 </table>
 
-<h2 align="center">GitHub Stats</h2>
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
   <img
@@ -215,5 +215,14 @@ You can explore my repositories to see examples of how I approach <strong>data a
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     height="170"
     alt="Top Languages"
+  />
+</p>
+
+<h1 align="center">GitHub Trophies</h1>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hendraahmadyani&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
   />
 </p>
