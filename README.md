@@ -1,22 +1,16 @@
-<h1 align="center">💫 About Me</h1>
-Hi, I'm Hendra Ahmad Yani<br><br>I am an Informatics Engineering graduate with an interest in building practical, user-focused, and data-driven solutions. My experience and projects span across Data Analytics, Data Science, AI/Machine Learning, Software Development, and UI/UX Design.I enjoy turning ideas and real-world problems into functional applications, meaningful insights, and intuitive digital experiences.<br><br>This GitHub serves as my technical portfolio, showcasing projects, experiments, and academic work across data, AI/ML, software development, and UI/UX design.<br><br>You can explore my repositories to see examples of how I approach data analysis, machine learning, application development, interface design, and real-world problem solving.
-
+<h1 align="center"> About Me</h1>
 <p align="justify">
 Hi, I'm Hendra Ahmad Yani<br><br>I am an Informatics Engineering graduate with an interest in building practical, user-focused, and data-driven solutions. My experience and projects span across Data Analytics, Data Science, AI/Machine Learning, Software Development, and UI/UX Design.I enjoy turning ideas and real-world problems into functional applications, meaningful insights, and intuitive digital experiences.</strong>.
 </p>
-
+<p align="justify">
+This GitHub serves as my <strong>technical portfolio</strong>, where I showcase projects, experiments, and academic work across data, AI/ML, software development, and UI/UX.
+</p>
 <p align="justify">
 You can explore my repositories to see examples of how I approach <strong>data analysis, machine learning, application development, interface design, and real-world problem solving.</strong>.
 </p>
 
-<p align="justify">
-This GitHub serves as my <strong>technical portfolio</strong>, where I showcase projects, experiments, and academic work across data, AI/ML, software development, and UI/UX.
-</p>
-
-
 
 <h1 align="center">Socials</h1>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -133,7 +127,7 @@ This GitHub serves as my <strong>technical portfolio</strong>, where I showcase 
     </td>
     <td align="center">
       <strong>Figma</strong><br>
-      <img src="https://skillicons.dev/icons?i=figma" width="50">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="50">
     </td>
   </tr>
 
