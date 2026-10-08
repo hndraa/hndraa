@@ -9,32 +9,28 @@ This GitHub serves as my <strong>technical portfolio</strong>, where I showcase 
 You can explore my repositories to see examples of how I approach <strong>data analysis, machine learning, application development, interface design, and real-world problem solving.</strong>.
 </p>
 
-
-<h1 align="center">Socials</h1>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.instagram.com/hndrahaa">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/hendraahmadyani/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:hendraahmadyani80@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/@hendraahmadyani5850">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Connect With Me</h1>
+<p align="center">
+  <a href="https://discordapp.com/users/1164897105358376964">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="38" alt="Discord">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/hndrahaa">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hendraahmadyani/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@hendraahmadyani5850">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="38" alt="YouTube">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hendraahmadyani80@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email">
+  </a>
+</p>
 
 <h1 align="center">Tech Stack</h1>
 
