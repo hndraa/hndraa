@@ -194,18 +194,35 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hndraa&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">GitHub Stats</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hendraahmadyani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hendraahmadyani&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=hndraa&icon=10&color=13)](https://visitcount.itsvg.in)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendraahmadyani&layout=compact&hide_border=true&langs_count=8"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/hndrahaa) 
+<h2 align="center">GitHub Trophies</h2>
 
-  
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hendraahmadyani&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</p>
