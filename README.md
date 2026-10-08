@@ -36,144 +36,190 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </tr>
 </table> 
 
-<h1 align="center">Tech Stack</h1>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <strong>Python</strong><br>
-      <img src="https://skillicons.dev/icons?i=python" width="50">
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"><br>
+      <sub>C++</sub>
     </td>
-    <td align="center" width="150">
-      <strong>Java</strong><br>
-      <img src="https://skillicons.dev/icons?i=java" width="50">
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"><br>
+      <sub>HTML5</sub>
     </td>
-    <td align="center" width="150">
-      <strong>Kotlin</strong><br>
-      <img src="https://skillicons.dev/icons?i=kotlin" width="50">
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"><br>
+      <sub>Java</sub>
     </td>
-    <td align="center" width="150">
-      <strong>C++</strong><br>
-      <img src="https://skillicons.dev/icons?i=cpp" width="50">
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"><br>
+      <sub>JavaScript</sub>
     </td>
-    <td align="center" width="150">
-      <strong>JavaScript</strong><br>
-      <img src="https://skillicons.dev/icons?i=javascript" width="50">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>HTML</strong><br>
-      <img src="https://skillicons.dev/icons?i=html" width="50">
-    </td>
-    <td align="center">
-      <strong>CSS</strong><br>
-      <img src="https://skillicons.dev/icons?i=css" width="50">
-    </td>
-    <td align="center">
-      <strong>React</strong><br>
-      <img src="https://skillicons.dev/icons?i=react" width="50">
-    </td>
-    <td align="center">
-      <strong>Firebase</strong><br>
-      <img src="https://skillicons.dev/icons?i=firebase" width="50">
-    </td>
-    <td align="center">
-      <strong>Git</strong><br>
-      <img src="https://skillicons.dev/icons?i=git" width="50">
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42"><br>
+      <sub>Kotlin</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <strong>GitHub</strong><br>
-      <img src="https://skillicons.dev/icons?i=github" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="42"><br>
+      <sub>LaTeX</sub>
     </td>
     <td align="center">
-      <strong>SQLite</strong><br>
-      <img src="https://skillicons.dev/icons?i=sqlite" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="42"><br>
+      <sub>Markdown</sub>
     </td>
     <td align="center">
-      <strong>MySQL</strong><br>
-      <img src="https://skillicons.dev/icons?i=mysql" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/octave/octave-original.svg" width="42"><br>
+      <sub>Octave</sub>
     </td>
     <td align="center">
-      <strong>MongoDB</strong><br>
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"><br>
+      <sub>PHP</sub>
     </td>
     <td align="center">
-      <strong>PyTorch</strong><br>
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>TensorFlow</strong><br>
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
-    </td>
-    <td align="center">
-      <strong>Scikit-learn</strong><br>
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50">
-    </td>
-    <td align="center">
-      <strong>Pandas</strong><br>
-      <img src="https://skillicons.dev/icons?i=pandas" width="50">
-    </td>
-    <td align="center">
-      <strong>NumPy</strong><br>
-      <img src="https://skillicons.dev/icons?i=numpy" width="50">
-    </td>
-    <td align="center">
-      <strong>Figma</strong><br>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"><br>
+      <sub>Python</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <strong>WordPress</strong><br>
-      <img src="https://skillicons.dev/icons?i=wordpress" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="42"><br>
+      <sub>R</sub>
     </td>
     <td align="center">
-      <strong>Docker</strong><br>
-      <img src="https://skillicons.dev/icons?i=docker" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42"><br>
+      <sub>Windows Terminal</sub>
     </td>
     <td align="center">
-      <strong>VS Code</strong><br>
-      <img src="https://skillicons.dev/icons?i=vscode" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"><br>
+      <sub>Firebase</sub>
     </td>
     <td align="center">
-      <strong>Android</strong><br>
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"><br>
+      <sub>Google Cloud</sub>
     </td>
     <td align="center">
-      <strong>Canva</strong><br>
-      <img src="https://skillicons.dev/icons?i=canva" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42"><br>
+      <sub>Oracle</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <strong>PyCharm</strong><br>
-      <img src="https://skillicons.dev/icons?i=pycharm" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="42"><br>
+      <sub>CUDA</sub>
     </td>
     <td align="center">
-      <strong>Jupyter</strong><br>
-      <img src="https://skillicons.dev/icons?i=jupyter" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgpu/webgpu-original.svg" width="42"><br>
+      <sub>WebGL</sub>
     </td>
     <td align="center">
-      <strong>Linux</strong><br>
-      <img src="https://skillicons.dev/icons?i=linux" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="42"><br>
+      <sub>WordPress</sub>
     </td>
     <td align="center">
-      <strong>Arduino</strong><br>
-      <img src="https://skillicons.dev/icons?i=arduino" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="42"><br>
+      <sub>Apache</sub>
     </td>
     <td align="center">
-      <strong>Unity</strong><br>
-      <img src="https://skillicons.dev/icons?i=unity" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="42"><br>
+      <sub>MariaDB</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"><br>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"><br>
+      <sub>SQLite</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42"><br>
+      <sub>Canva</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="42"><br>
+      <sub>Blender</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"><br>
+      <sub>Figma</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="42"><br>
+      <sub>Sketch</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketchup/sketchup-original.svg" width="42"><br>
+      <sub>SketchUp</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="42"><br>
+      <sub>Keras</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"><br>
+      <sub>Matplotlib</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"><br>
+      <sub>NumPy</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"><br>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"><br>
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42"><br>
+      <sub>Scikit-learn</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="42"><br>
+      <sub>SciPy</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"><br>
+      <sub>TensorFlow</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"><br>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42"><br>
+      <sub>Arduino</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42"><br>
+      <sub>Unity</sub>
     </td>
   </tr>
 </table>
