@@ -20,7 +20,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hendraahmadyani/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="38" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@hendraahmadyani5850">
