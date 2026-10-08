@@ -16,7 +16,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/hndrahaa">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="38" alt="Instagram">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hendraahmadyani/">
@@ -28,7 +28,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hendraahmadyani80@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="38" alt="Email">
   </a>
 </p>
 
