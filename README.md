@@ -72,8 +72,8 @@ You can explore my repositories to see examples of how I approach <strong>data a
       <sub>Markdown</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/octave/octave-original.svg" width="42"><br>
-      <sub>Octave</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"><br>
+      <sub>CSS</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"><br>
