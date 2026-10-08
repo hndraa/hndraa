@@ -28,7 +28,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hendraahmadyani80@gmail.com">
-    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="38" alt="Email">
+    <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="38" alt="Email">
   </a>
 </p>
 
