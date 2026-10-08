@@ -217,12 +217,3 @@ You can explore my repositories to see examples of how I approach <strong>data a
     alt="Top Languages"
   />
 </p>
-
-<h1 align="center">GitHub Trophies</h1>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=hendraahmadyani&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
-</p>
