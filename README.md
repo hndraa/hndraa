@@ -179,7 +179,7 @@ You can explore my repositories to see examples of how I approach <strong>data a
 
   <tr>
     <td align="center">
-      <img src="https://www.solvermax.com/images/blog/rosetta/scipy_logo.webp" width="42"><br>
+      <img src="https://images.seeklogo.com/logo-png/44/1/scipy-logo-png_seeklogo-441155.png" width="42"><br>
       <sub>SciPy</sub>
     </td>
     <td align="center">
