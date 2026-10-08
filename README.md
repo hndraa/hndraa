@@ -34,9 +34,9 @@ You can explore my repositories to see examples of how I approach <strong>data a
       </a>
     </td>
   </tr>
-</table> 
+</table>
 
-<h2 align="center">Tech Stack</h2>
+<h1 align="center">Tech Stack</h1>
 
 <table align="center">
   <tr>
@@ -110,10 +110,6 @@ You can explore my repositories to see examples of how I approach <strong>data a
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="42"><br>
-      <sub>CUDA</sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgpu/webgpu-original.svg" width="42"><br>
       <sub>WebGL</sub>
     </td>
@@ -129,13 +125,13 @@ You can explore my repositories to see examples of how I approach <strong>data a
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="42"><br>
       <sub>MariaDB</sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"><br>
       <sub>MongoDB</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"><br>
       <sub>MySQL</sub>
@@ -149,35 +145,20 @@ You can explore my repositories to see examples of how I approach <strong>data a
       <sub>Canva</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="42"><br>
-      <sub>Blender</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"><br>
       <sub>Figma</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="42"><br>
-      <sub>Sketch</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketchup/sketchup-original.svg" width="42"><br>
-      <sub>SketchUp</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="42"><br>
       <sub>Keras</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"><br>
       <sub>Matplotlib</sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"><br>
       <sub>NumPy</sub>
@@ -194,13 +175,13 @@ You can explore my repositories to see examples of how I approach <strong>data a
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42"><br>
       <sub>Scikit-learn</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=scipy" width="42"><br>
-      <sub>SciPy</sub>
-    </td>
   </tr>
 
   <tr>
+    <td align="center">
+      <img src="https://www.solvermax.com/images/blog/rosetta/scipy_logo.webp" width="42"><br>
+      <sub>SciPy</sub>
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"><br>
       <sub>TensorFlow</sub>
@@ -213,17 +194,9 @@ You can explore my repositories to see examples of how I approach <strong>data a
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"><br>
       <sub>GitHub</sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42"><br>
-      <sub>Arduino</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42"><br>
-      <sub>Unity</sub>
-    </td>
+    <td></td>
   </tr>
 </table>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
