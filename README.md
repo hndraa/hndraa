@@ -1,12 +1,190 @@
 <h1 align="center">💫 About Me</h1>
 Hi, I'm Hendra Ahmad Yani<br><br>I am an Informatics Engineering graduate with an interest in building practical, user-focused, and data-driven solutions. My experience and projects span across Data Analytics, Data Science, AI/Machine Learning, Software Development, and UI/UX Design.I enjoy turning ideas and real-world problems into functional applications, meaningful insights, and intuitive digital experiences.<br><br>This GitHub serves as my technical portfolio, showcasing projects, experiments, and academic work across data, AI/ML, software development, and UI/UX design.<br><br>You can explore my repositories to see examples of how I approach data analysis, machine learning, application development, interface design, and real-world problem solving.
 
+<p align="justify">
+Hi, I'm Hendra Ahmad Yani<br><br>I am an Informatics Engineering graduate with an interest in building practical, user-focused, and data-driven solutions. My experience and projects span across Data Analytics, Data Science, AI/Machine Learning, Software Development, and UI/UX Design.I enjoy turning ideas and real-world problems into functional applications, meaningful insights, and intuitive digital experiences.</strong>.
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1164897105358376964) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hndrahaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hendraahmadyani/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@hendraahmadyani5850) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hendraahmadyani80@gmail.com) 
+<p align="justify">
+You can explore my repositories to see examples of how I approach <strong>data analysis, machine learning, application development, interface design, and real-world problem solving.</strong>.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<p align="justify">
+This GitHub serves as my <strong>technical portfolio</strong>, where I showcase projects, experiments, and academic work across data, AI/ML, software development, and UI/UX.
+</p>
+
+
+
+<h1 align="center">Socials</h1>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/hndrahaa">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/hendraahmadyani/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:hendraahmadyani80@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@hendraahmadyani5850">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table> 
+
+<h1 align="center">Tech Stack</h1>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <strong>Python</strong><br>
+      <img src="https://skillicons.dev/icons?i=python" width="50">
+    </td>
+    <td align="center" width="150">
+      <strong>Java</strong><br>
+      <img src="https://skillicons.dev/icons?i=java" width="50">
+    </td>
+    <td align="center" width="150">
+      <strong>Kotlin</strong><br>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="50">
+    </td>
+    <td align="center" width="150">
+      <strong>C++</strong><br>
+      <img src="https://skillicons.dev/icons?i=cpp" width="50">
+    </td>
+    <td align="center" width="150">
+      <strong>JavaScript</strong><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="50">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>HTML</strong><br>
+      <img src="https://skillicons.dev/icons?i=html" width="50">
+    </td>
+    <td align="center">
+      <strong>CSS</strong><br>
+      <img src="https://skillicons.dev/icons?i=css" width="50">
+    </td>
+    <td align="center">
+      <strong>React</strong><br>
+      <img src="https://skillicons.dev/icons?i=react" width="50">
+    </td>
+    <td align="center">
+      <strong>Firebase</strong><br>
+      <img src="https://skillicons.dev/icons?i=firebase" width="50">
+    </td>
+    <td align="center">
+      <strong>Git</strong><br>
+      <img src="https://skillicons.dev/icons?i=git" width="50">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>GitHub</strong><br>
+      <img src="https://skillicons.dev/icons?i=github" width="50">
+    </td>
+    <td align="center">
+      <strong>SQLite</strong><br>
+      <img src="https://skillicons.dev/icons?i=sqlite" width="50">
+    </td>
+    <td align="center">
+      <strong>MySQL</strong><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="50">
+    </td>
+    <td align="center">
+      <strong>MongoDB</strong><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50">
+    </td>
+    <td align="center">
+      <strong>PyTorch</strong><br>
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>TensorFlow</strong><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
+    </td>
+    <td align="center">
+      <strong>Scikit-learn</strong><br>
+      <img src="https://skillicons.dev/icons?i=sklearn" width="50">
+    </td>
+    <td align="center">
+      <strong>Pandas</strong><br>
+      <img src="https://skillicons.dev/icons?i=pandas" width="50">
+    </td>
+    <td align="center">
+      <strong>NumPy</strong><br>
+      <img src="https://skillicons.dev/icons?i=numpy" width="50">
+    </td>
+    <td align="center">
+      <strong>Figma</strong><br>
+      <img src="https://skillicons.dev/icons?i=figma" width="50">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>WordPress</strong><br>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="50">
+    </td>
+    <td align="center">
+      <strong>Docker</strong><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="50">
+    </td>
+    <td align="center">
+      <strong>VS Code</strong><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="50">
+    </td>
+    <td align="center">
+      <strong>Android</strong><br>
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="50">
+    </td>
+    <td align="center">
+      <strong>Canva</strong><br>
+      <img src="https://skillicons.dev/icons?i=canva" width="50">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>PyCharm</strong><br>
+      <img src="https://skillicons.dev/icons?i=pycharm" width="50">
+    </td>
+    <td align="center">
+      <strong>Jupyter</strong><br>
+      <img src="https://skillicons.dev/icons?i=jupyter" width="50">
+    </td>
+    <td align="center">
+      <strong>Linux</strong><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="50">
+    </td>
+    <td align="center">
+      <strong>Arduino</strong><br>
+      <img src="https://skillicons.dev/icons?i=arduino" width="50">
+    </td>
+    <td align="center">
+      <strong>Unity</strong><br>
+      <img src="https://skillicons.dev/icons?i=unity" width="50">
+    </td>
+  </tr>
+</table>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hndraa&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=hndraa&theme=transparent&hide_border=true)<br/>
